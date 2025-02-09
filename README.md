@@ -1,6 +1,6 @@
 # VTxHash - VirusTotal Hash Scanner
 
-VTxHash is a Python-based tool that checks file hashes against the VirusTotal database to identify potential threats. It supports **batch scanning** and exports structured results in **CSV and TXT** formats.
+VTxHash is a Python-based tool that checks file hashes against the VirusTotal database to identify potential threats. It supports **bulk scanning** and exports structured results in **CSV and TXT** formats.
 
 ## Features
 
