@@ -85,8 +85,8 @@ https://www.virustotal.com/gui/file/99017f6e    MD5         Unknown     Unknown 
 
 ## References
 
-- Get a VirusTotal API Key
-- VirusTotal API Documentation
+- [Get a VirusTotal API Key](https://www.virustotal.com/gui/join-us)
+- [VirusTotal API Documentation](https://docs.virustotal.com/reference/overview)
 
 ## Contributions
 
