@@ -15,7 +15,7 @@ VTxHash is a Python-based tool that checks file hashes against the VirusTotal da
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/VTxHash.git
+git clone https://github.com/imakash-sinha/VTxHash.git
 cd VTxHash
 ```
 
